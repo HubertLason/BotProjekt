@@ -1,0 +1,21 @@
+[
+  {
+    "keywords": ["hello","hi"],
+    "response": {
+      "text": "Hello"
+    }
+  },
+  {
+    "keywords": ["image"],
+    "response": {
+      "image_path": "images/TestImage.jpg"
+    }
+  },
+  {
+    "keywords": ["test"],
+    "response": {
+      "text": "Test",
+      "image_path": "images/TestImage2.jpg"
+    }
+  }
+]
